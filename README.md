@@ -11,7 +11,7 @@ This is the place where I save all the useful resources I will need for my web d
 
 
 
-## Refference
+## Reference
 - [Javascript Mastery](https://www.youtube.com/watch?v=9CEW3Tmx2tg)
 
 ## Contribution
