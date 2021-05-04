@@ -2,8 +2,8 @@
 This is the place where I save all the useful resources I will need for my web dev career.
 
 ## Training resources
-- FreeCodeCamp
-- The Ordin Project
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [The Ordin Project](https://www.theodinproject.com/)
 
 ## Free Images & Videos
 - [Unsplash.com](Unsplash.com)
