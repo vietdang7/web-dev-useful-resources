@@ -4,6 +4,9 @@ This is the place where I save all the useful resources I will need for my web d
 ## Training resources
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [The Ordin Project](https://www.theodinproject.com/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [Style Stage](https://stylestage.dev/)
+- [The Frontend Practice](https://www.frontendpractice.com/)
 
 ## Free Images & Videos
 - [Unsplash.com](Unsplash.com)
@@ -18,6 +21,7 @@ This is the place where I save all the useful resources I will need for my web d
 
 ## Reference
 - [Javascript Mastery](https://www.youtube.com/watch?v=9CEW3Tmx2tg)
+- [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`
