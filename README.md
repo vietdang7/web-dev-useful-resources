@@ -19,7 +19,7 @@ This is the place where I save all the useful resources I will need for my web d
 - [Color.adobe.com](https://color.adobe.com/create/color-wheel) // Color wheel
  
 
-## Reference
+## References
 - [Javascript Mastery](https://www.youtube.com/watch?v=9CEW3Tmx2tg)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 
