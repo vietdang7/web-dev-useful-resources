@@ -7,6 +7,7 @@ This is the place where I save all the useful resources I will need for my web d
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Style Stage](https://stylestage.dev/)
 - [The Frontend Practice](https://www.frontendpractice.com/)
+- [](https://www.codingame.com/home)
 
 ## Free Images & Videos
 - [Unsplash.com](Unsplash.com)
