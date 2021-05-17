@@ -9,6 +9,7 @@ This is the place where I save all the useful resources I will need for my web d
 - [The Frontend Practice](https://www.frontendpractice.com/)
 - [Codingame](https://www.codingame.com/home)
 - [Udemy](https://www.udemy.com/)
+- [Screeps](https://screeps.com/)
 
 ## Free Images & Videos
 - [Unsplash.com](Unsplash.com)
