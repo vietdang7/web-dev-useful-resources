@@ -28,6 +28,7 @@ This is the place where I save all the useful resources I will need for my web d
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [Online Tutorial](https://www.youtube.com/c/OnlineTutorials4Designers)
 - [Sonny Sangha](https://www.youtube.com/user/ssangha32)
+- [Coding Train](https://www.youtube.com/user/shiffman)
 
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`
