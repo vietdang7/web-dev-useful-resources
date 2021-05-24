@@ -30,6 +30,7 @@ This is the place where I save all the useful resources I will need for my web d
 - [Online Tutorial](https://www.youtube.com/c/OnlineTutorials4Designers)
 - [Sonny Sangha](https://www.youtube.com/user/ssangha32)
 - [Coding Train](https://www.youtube.com/user/shiffman)
+- [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
 
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`
