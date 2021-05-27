@@ -21,7 +21,7 @@ This is the place where I save all the useful resources I will need for my web d
 ## Design idea and tools
 - [Coolors.co](https://coolors.co/) // Color generator
 - [Color.adobe.com](https://color.adobe.com/create/color-wheel) // Color wheel
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/) // Design tool
  
 
 ## Youtube channels
