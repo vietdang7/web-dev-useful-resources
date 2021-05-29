@@ -23,6 +23,9 @@ This is the place where I save all the useful resources I will need for my web d
 - [Color.adobe.com](https://color.adobe.com/create/color-wheel) // Color wheel
 - [Figma](https://www.figma.com/) // Design tool
  
+ ## Development tools
+- [Gatsby Cloud](https://gatsbyjs.com/) 
+- [Cloudflare Pages](https://pages.cloudflare.com/)
 
 ## Youtube channels
 - [Javascript Mastery](https://www.youtube.com/watch?v=9CEW3Tmx2tg)
