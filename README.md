@@ -14,6 +14,7 @@ This is the place where I save all the useful resources I will need for my web d
 - [Udemy](https://www.udemy.com/)
 - [Screeps](https://screeps.com/)
 - [Codewars](https://www.codewars.com/)
+- [Thinkster 100 Algorithms challenge](https://thinkster.io/tutorials/100-algorithms-challenge)
 
 ## Free Images & Videos
 - [Unsplash.com](Unsplash.com)
