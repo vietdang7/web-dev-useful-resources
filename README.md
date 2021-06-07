@@ -1,10 +1,10 @@
 # Useful resources for Web developer -  2021
 Place where I save all the useful resources I will need for my web dev career.
 
-## Roadmap
+## 🛣 Roadmap
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-## Training resources
+## 📙 Training resources
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [The Ordin Project](https://www.theodinproject.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
@@ -16,22 +16,22 @@ Place where I save all the useful resources I will need for my web dev career.
 - [Codewars](https://www.codewars.com/)
 - [Thinkster 100 Algorithms challenge](https://thinkster.io/tutorials/100-algorithms-challenge)
 
-## Free Images & Videos
+## 🏞 Free Images & Videos
 - [Unsplash.com](Unsplash.com)
 - [Pexels.com](Pexels.com)
 - [Undraw.co](Undraw.co)
 - [Coverr.co](Coverr.co)
 
-## Design idea and tools
+## 🎨 Design idea and tools
 - [Coolors.co](https://coolors.co/) // Color generator
 - [Color.adobe.com](https://color.adobe.com/create/color-wheel) // Color wheel
 - [Figma](https://www.figma.com/) // Design tool
  
- ## Development tools
+ ## 🧑‍💻 Development tools
 - [Gatsby Cloud](https://gatsbyjs.com/) 
 - [Cloudflare Pages](https://pages.cloudflare.com/)
 
-## Youtube channels
+## 🎥 Youtube channels
 - [Javascript Mastery](https://www.youtube.com/watch?v=9CEW3Tmx2tg)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [Online Tutorial](https://www.youtube.com/c/OnlineTutorials4Designers)
