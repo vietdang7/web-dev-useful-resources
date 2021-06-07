@@ -1,5 +1,5 @@
 # Useful resources for Web developer -  2021
-This is the place where I save all the useful resources I will need for my web dev career.
+Place where I save all the useful resources I will need for my web dev career.
 
 ## Roadmap
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
