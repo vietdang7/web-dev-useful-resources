@@ -7,6 +7,7 @@ Place where I save all the useful resources I will need for my web dev career.
 ## 📙 Training resources
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [The Ordin Project](https://www.theodinproject.com/)
+- [Leetcode](https://leetcode.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Style Stage](https://stylestage.dev/)
 - [The Frontend Practice](https://www.frontendpractice.com/)
