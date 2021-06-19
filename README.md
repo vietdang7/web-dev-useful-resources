@@ -32,7 +32,8 @@ Place where I save all the useful resources I will need for my web dev career.
 - [Gatsby Cloud](https://gatsbyjs.com/) 
 - [Cloudflare Pages](https://pages.cloudflare.com/)
 
-## 🎥 Youtube channels
+## 🎥 Blogs and Youtube channels
+- [Dan Abramov - Overreacted](https://overreacted.io/)
 - [Javascript Mastery](https://www.youtube.com/watch?v=9CEW3Tmx2tg)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [Online Tutorial](https://www.youtube.com/c/OnlineTutorials4Designers)
