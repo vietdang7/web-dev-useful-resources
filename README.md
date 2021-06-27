@@ -1,4 +1,4 @@
-# ⚡️ Useful resources for my Web developer career -  2021 ⚡️
+# ⚡️ Useful resources for my Web developer life -  2021 ⚡️
 Place where I save all the useful resources I will need for my web dev career.
 
 ## 🛣 Roadmap
