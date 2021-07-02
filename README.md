@@ -1,5 +1,5 @@
 # ⚡️ Useful resources for my Web developer life -  2021 ⚡️
-💪🏻 Place where I save all the useful resources I will need for my web dev career 💪🏻.
+💪🏻  Place where I save all the useful resources I will need for my web dev career 💪🏻.
 
 ## 🛣 Roadmap
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -43,7 +43,7 @@
 - [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
 
 ## Contribution
-If you want to make contribution for this project, feel free to `fork` this project and make `pull request`
+If you want to make contribution for this project, feel free to `fork` this project and make `pull request` 🙏🏻
 
 ## License
 
