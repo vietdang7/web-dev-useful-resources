@@ -16,6 +16,7 @@
 - [Screeps](https://screeps.com/)
 - [Codewars](https://www.codewars.com/)
 - [Thinkster 100 Algorithms challenge](https://thinkster.io/tutorials/100-algorithms-challenge)
+- [Build your own React](https://pomb.us/build-your-own-react/)
 
 ## 🏞 Free Images & Videos
 - [Unsplash.com](Unsplash.com)
