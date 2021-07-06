@@ -2,7 +2,7 @@
 💪🏻  Place where I save all the useful resources I will need for my web dev career 💪🏻.
 
 ## 🛣 Roadmap
-- [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) 💪🏻
+- [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)👍
 
 ## 📙 Training resources
 - [FreeCodeCamp](https://www.freecodecamp.org/)
