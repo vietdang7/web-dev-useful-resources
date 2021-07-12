@@ -44,7 +44,7 @@
 - [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
 
 ## Contribution
-If you want to make contribution for this project, feel free to `fork` this project and make `pull request` 🙏🏻
+If you want to make contribution for this project, feel free to `fork` this project and make `pull request`. Thanks 🙏🏻
 
 ## License
 
