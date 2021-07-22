@@ -48,5 +48,5 @@ If you want to make contribution for this project, feel free to `fork` this proj
 
 ## License
 
-- This project is licensed under the MIT license 🌎
+- This project is licensed under the MIT license 🌎.
 
